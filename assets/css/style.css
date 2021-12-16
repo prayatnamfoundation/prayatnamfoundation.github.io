@@ -391,7 +391,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 #hero .hero-content .btn-projects {
   background: 	#FFA500;
-  border: 2px solid #50d8af;
+  border: 2px solid #FFA500;
 }
 #hero .hero-content .btn-projects:hover {
   background: none;
